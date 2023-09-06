@@ -74,7 +74,7 @@ if __name__ == '__main__':
     print("*"*80)
     print("Welcome to PHP switcher", end='\n\n')
     print("This script will help you to add the PHP folder to the user PATH variable.", end='\n\n')    
-    print("Author: Prince Johnson | Email: andprogrammer007[@t]gm@ail.com ", end='\n\n')
+    print("Author: Johnson | Email: andprogrammer007[@t]gm@ail.com ", end='\n\n')
     print("*"*80)
     php_dir = r'C:\laragon\bin\php' # default PHP folder location    
     if not os.path.exists(php_dir):        
