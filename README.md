@@ -6,6 +6,9 @@ since windows doesn't has something that can be executed by the global path.
 
 Then we can run the following 
 
-just save the code in switch.py file inside the Lib folder then run the below command 
+
+Installation:
+
+just save the code switch.py file inside the Lib folder then run the below command 
 
 python -m switch
