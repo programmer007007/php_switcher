@@ -9,6 +9,7 @@ Then we can run the following
 
 Installation:
 
-just save the code switch.py file inside the C:/python39/Lib [ur python installed location]  folder then run the below command 
+just save the code switch.py file inside the C:/python39/Lib [ur python installed location]  folder then create a file in c:/php_loc.txt with the folder location of php[root one] eg: c:/php/ this location basically of mine has many php version folders in them after that run the below command.
+if u have largon installed at the default location then it will capture the file path of that , but if not then u got to do this config file creation process.
 
 python -m switch
