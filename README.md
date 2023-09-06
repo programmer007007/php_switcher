@@ -9,6 +9,6 @@ Then we can run the following
 
 Installation:
 
-just save the code switch.py file inside the Lib folder then run the below command 
+just save the code switch.py file inside the C:/python39/Lib [ur python installed location]  folder then run the below command 
 
 python -m switch
